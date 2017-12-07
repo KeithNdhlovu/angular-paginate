@@ -8,7 +8,7 @@ This is an Angular 1.x Module created by [svileng](https://github.com/svileng/) 
 ## Quick start
 
 ```bash
-bower install ng-simplePagination
+just include this script on you page https://raw.githubusercontent.com/KeithNdhlovu/angular-paginate/master/angular-paginate.js
 ```
 or alternatively download and include `simplePagination.js` after `angular.min.js`.
 
